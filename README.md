@@ -13,10 +13,6 @@ Frontpage helps users subscribe to feeds, organize sources, search across articl
 
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/564e9556-b3af-448a-96fd-342f4794485d" />
 
-## Maintainer
-
-- Ayokanmi Adejola
-
 ## Features
 
 - Email/password authentication with Supabase Auth
