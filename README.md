@@ -159,7 +159,3 @@ npm run jobs:refresh
 - Discover tab implementation
 - OPML import/export UI polish
 - Avatar upload via Supabase Storage
-
-## License
-
-ISC
