@@ -517,7 +517,7 @@ export default function DashboardDbApp() {
   }
 
   return (
-    <main className="dashboard-root" id="main-content">
+    <main className="dashboard-root" id="main-content" tabIndex={-1}>
       <header className="app-chrome" aria-label="Application header">
         <div className="app-brand">
           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkO4xvSiDi9-OpLNU4bH0d362Puts5E9JCFw&s" alt="Frontpage" className="brand-mark" />

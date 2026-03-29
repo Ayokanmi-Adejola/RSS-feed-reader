@@ -44,7 +44,7 @@ export default function AuthForm({ mode }: AuthFormProps) {
   }
 
   return (
-    <main className="landing-shell" id="main-content">
+    <main className="landing-shell" id="main-content" tabIndex={-1}>
       <section className="hero-panel" aria-labelledby="auth-heading" style={{ maxWidth: "30rem" }}>
         <h1 id="auth-heading">{submitLabel}</h1>
         <form onSubmit={onSubmit} style={{ display: "grid", gap: "0.75rem" }}>

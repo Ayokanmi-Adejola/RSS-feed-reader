@@ -441,7 +441,7 @@ export default function DashboardApp() {
   }
 
   return (
-    <main className="dashboard-shell" id="main-content">
+    <main className="dashboard-shell" id="main-content" tabIndex={-1}>
       <aside className="sidebar" aria-label="Sidebar navigation">
         <h2>Frontpage</h2>
         <p className="meta">Unread total: {state.articles.filter((article) => !article.read).length}</p>

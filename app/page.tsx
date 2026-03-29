@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function LandingPage() {
   return (
-    <main className="landing-shell" id="main-content">
+    <main className="landing-shell" id="main-content" tabIndex={-1}>
       <section className="hero-panel" aria-labelledby="hero-title">
         <p className="eyebrow">Frontpage</p>
         <h1 id="hero-title">A reading dashboard that feels calm when your feeds are not.</h1>
