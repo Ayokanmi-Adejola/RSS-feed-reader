@@ -9,14 +9,9 @@ A production-ready RSS/Atom feed reader built with Next.js and Supabase.
 
 Frontpage helps users subscribe to feeds, organize sources, search across articles, and track reading state with keyboard-first navigation.
 
-## Live Project
-
-- Live URL: https://rss-feed-reader-iota.vercel.app/
-- Repository: https://github.com/Ayokanmi-Adejola/RSS-feed-reader
-
 ## Preview
 
-![Frontpage preview](./preview.jpg)
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/564e9556-b3af-448a-96fd-342f4794485d" />
 
 ## Maintainer
 
